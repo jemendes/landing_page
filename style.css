@@ -1,0 +1,15 @@
+header {
+    background-color: #1f2937;
+    color: #F9FAF8;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 100px;
+
+}
+
+a {
+    text-decoration: none;
+    color: #F9FAF8;
+    margin-left: 15px;
+}
